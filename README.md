@@ -28,7 +28,7 @@ If you are still experiencing issues with ggplot or tidyverse, do the following 
 #### Get Jupyter notebooks running on your laptop
 - Download Anaconda (it's available for Windows, Mac and Linux systems): https://www.anaconda.com/distribution/
 - Follow these instructions: https://docs.anaconda.com/anaconda/navigator/tutorials/r-lang/
-- Dowload the course's notebooks from https://github.com/laurafontanesi/RcourseSpring2019: Click on Clone or download > Download as ZIP
+- Dowload the course's notebooks from https://github.com/laurafontanesi/r-seminar: Click on Clone or download > Download as ZIP
 - Now you should be able to open the WPA notebooks from within Anaconda, as explained in the link above
 
 ## Course Description
