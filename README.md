@@ -8,7 +8,9 @@ New WPAs and readings will be uploaded weekly, so check back regularly.
 | Week | Date | Topic | Texbook readings | Assignment (in class) | Answers |
 | ---- | ---- | ----- | ---------------- | --------------------- | ------- |
 | 1 | 2 March | Introduction | No readings | [WPA 1](https://nbviewer.jupyter.org/github/laurafontanesi/r-seminar/blob/main/notebooks/wpa1.ipynb) | [Answers](https://nbviewer.jupyter.org/github/laurafontanesi/r-seminar/blob/main/notebooks/wpa1_answers.ipynb) |
-| 2 | 9 March | Basic R | [Chapter 1](https://moderndive.com/1-getting-started.html) | [WPA 2](https://nbviewer.jupyter.org/github/laurafontanesi/r-seminar/blob/main/notebooks/wpa2.ipynb) | |
+| 2 | 9 March | Basic R | [Chapter 1](https://moderndive.com/1-getting-started.html) | [WPA 2](https://nbviewer.jupyter.org/github/laurafontanesi/r-seminar/blob/main/notebooks/wpa2.ipynb) | [Answers](https://nbviewer.jupyter.org/github/laurafontanesi/r-seminar/blob/main/notebooks/wpa2_answers.ipynb) |
+| 3 | 16 March | Data visualization | [Chapter 2](https://moderndive.com/2-viz.html) | [WPA 3](https://nbviewer.jupyter.org/github/laurafontanesi/r-seminar/blob/main/notebooks/wpa3.ipynb) | - |
+| 4 | 23 March | Data wrangling | [Chapter 3](https://moderndive.com/3-wrangling.html) | - | - |
 
 ## Important Links
 Link | Description 
