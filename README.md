@@ -7,11 +7,11 @@ New WPAs and readings will be uploaded weekly, so check back regularly.
 
 | Week | Date | Topic | Texbook readings | Assignment (in class) | Answers |
 | ---- | ---- | ----- | ---------------- | --------------------- | ------- |
-| 1 | 2 March | Introduction | No readings | [WPA 1](https://nbviewer.jupyter.org/github/laurafontanesi/r-seminar/blob/main/notebooks/wpa1.ipynb) | [Answers](https://nbviewer.jupyter.org/github/laurafontanesi/r-seminar/blob/main/notebooks/wpa1_answers.ipynb) |
-| 2 | 9 March | Basic R | [Chapter 1](https://moderndive.com/1-getting-started.html) | [WPA 2](https://nbviewer.jupyter.org/github/laurafontanesi/r-seminar/blob/main/notebooks/wpa2.ipynb) | [Answers](https://nbviewer.jupyter.org/github/laurafontanesi/r-seminar/blob/main/notebooks/wpa2_answers.ipynb) |
-| 3 | 16 March | Data visualization | [Chapter 2](https://moderndive.com/2-viz.html) | [WPA 3](https://nbviewer.jupyter.org/github/laurafontanesi/r-seminar/blob/main/notebooks/wpa3.ipynb) | [Answers](https://nbviewer.jupyter.org/github/laurafontanesi/r-seminar/blob/main/notebooks/wpa3_answers.ipynb) |
-| 4 | 23 March | Data wrangling | [Chapter 3](https://moderndive.com/3-wrangling.html) | [WPA 4](https://nbviewer.jupyter.org/github/laurafontanesi/r-seminar/blob/main/notebooks/wpa4.ipynb) | [Answers](https://nbviewer.jupyter.org/github/laurafontanesi/r-seminar/blob/main/notebooks/wpa4_answers.ipynb) |
-| 5 | 6 April | Importing data | - | [WPA 5](https://nbviewer.jupyter.org/github/laurafontanesi/r-seminar/blob/main/notebooks/wpa5.ipynb) | - |
+| 1 | 2 March | Introduction | No readings | [WPA 1](http://htmlpreview.github.io/?https://github.com/laurafontanesi/r-seminar/blob/main/html/wpa1.html) | [Answers](http://htmlpreview.github.io/?https://github.com/laurafontanesi/r-seminar/blob/main/html/wpa1_answers.html) |
+| 2 | 9 March | Basic R | [Chapter 1](https://moderndive.com/1-getting-started.html) | [WPA 2](http://htmlpreview.github.io/?https://github.com/laurafontanesi/r-seminar/blob/main/html/wpa2.html) | [Answers](http://htmlpreview.github.io/?https://github.com/laurafontanesi/r-seminar/blob/main/html/wpa2_answers.html) |
+| 3 | 16 March | Data visualization | [Chapter 2](https://moderndive.com/2-viz.html) | [WPA 3](http://htmlpreview.github.io/?https://github.com/laurafontanesi/r-seminar/blob/main/html/wpa3.html) | [Answers](http://htmlpreview.github.io/?https://github.com/laurafontanesi/r-seminar/blob/main/html/wpa3_answers.html) |
+| 4 | 23 March | Data wrangling | [Chapter 3](https://moderndive.com/3-wrangling.html) | [WPA 4](http://htmlpreview.github.io/?https://github.com/laurafontanesi/r-seminar/blob/main/html/wpa4.html) | [Answers](http://htmlpreview.github.io/?https://github.com/laurafontanesi/r-seminar/blob/main/html/wpa4_answers.html) |
+| 5 | 6 April | Importing data | - | [WPA 5](http://htmlpreview.github.io/?https://github.com/laurafontanesi/r-seminar/blob/main/html/wpa5.html) | - |
 | 6 | 13 April | Tidying data | [Chapter 4](https://moderndive.com/4-tidy.html) | - | - |
 
 ## Important Links
