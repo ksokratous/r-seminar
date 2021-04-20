@@ -12,7 +12,13 @@ New WPAs and readings will be uploaded weekly, so check back regularly.
 | 3 | 16 March | Data visualization | [Chapter 2](https://moderndive.com/2-viz.html) | [WPA 3](http://htmlpreview.github.io/?https://github.com/laurafontanesi/r-seminar/blob/main/html/wpa3.html) | [Answers](http://htmlpreview.github.io/?https://github.com/laurafontanesi/r-seminar/blob/main/html/wpa3_answers.html) |
 | 4 | 23 March | Data wrangling | [Chapter 3](https://moderndive.com/3-wrangling.html) | [WPA 4](http://htmlpreview.github.io/?https://github.com/laurafontanesi/r-seminar/blob/main/html/wpa4.html) | [Answers](http://htmlpreview.github.io/?https://github.com/laurafontanesi/r-seminar/blob/main/html/wpa4_answers.html) |
 | 5 | 6 April | Importing data | - | [WPA 5](http://htmlpreview.github.io/?https://github.com/laurafontanesi/r-seminar/blob/main/html/wpa5.html) | [Answers](http://htmlpreview.github.io/?https://github.com/laurafontanesi/r-seminar/blob/main/html/wpa5_answers.html) |
-| 6 | 13 April | Tidying data | [Chapter 4](https://moderndive.com/4-tidy.html) | [WPA 6](http://htmlpreview.github.io/?https://github.com/laurafontanesi/r-seminar/blob/main/html/wpa6.html) | - |
+| 6 | 13 April | Tidying data | [Chapter 4](https://moderndive.com/4-tidy.html) | [WPA 6](http://htmlpreview.github.io/?https://github.com/laurafontanesi/r-seminar/blob/main/html/wpa6.html) | [WPA 6](http://htmlpreview.github.io/?https://github.com/laurafontanesi/r-seminar/blob/main/html/wpa6_answers.html) |
+| 7 | 20 April | Writing Functions and Loops | | |
+| 8 | 27 April | Linear and logistic regression | | |
+| 9 | 4 May | Multiple regression | | |
+| 10 | 18 May | Multilevel regression | | |
+| 11 | 25 May | Group project 1 | | |
+| 12 | 1 June | Group project 2 | | |
 
 ## Important Links
 Link | Description 
