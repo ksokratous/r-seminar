@@ -14,7 +14,7 @@ New WPAs and readings will be uploaded weekly, so check back regularly.
 | 5 | 6 April | Importing data | - | [WPA 5](http://htmlpreview.github.io/?https://github.com/laurafontanesi/r-seminar/blob/main/html/wpa5.html) | [Answers](http://htmlpreview.github.io/?https://github.com/laurafontanesi/r-seminar/blob/main/html/wpa5_answers.html) |
 | 6 | 13 April | Tidying data | [Chapter 4](https://moderndive.com/4-tidy.html) | [WPA 6](http://htmlpreview.github.io/?https://github.com/laurafontanesi/r-seminar/blob/main/html/wpa6.html) | [Answers](http://htmlpreview.github.io/?https://github.com/laurafontanesi/r-seminar/blob/main/html/wpa6_answers.html) |
 | 7 | 20 April | Writing Functions and Loops | – | [WPA 7](http://htmlpreview.github.io/?https://github.com/laurafontanesi/r-seminar/blob/main/html/wpa7.html) | [Answers](http://htmlpreview.github.io/?https://github.com/laurafontanesi/r-seminar/blob/main/html/wpa7_answers.html) |
-| 8 | 27 April | Linear and logistic regression | [Chapter 5](https://moderndive.com/5-regression.html) |  |  |
+| 8 | 27 April | Linear and logistic regression | [Chapter 5](https://moderndive.com/5-regression.html) | [WPA 8](http://htmlpreview.github.io/?https://github.com/laurafontanesi/r-seminar/blob/main/html/wpa8.html) |  |
 | 9 | 4 May | Multiple regression and ANOVA | [Chapter 6](https://moderndive.com/6-multiple-regression.html) |  |  |
 | 10 | 18 May | Multilevel regression | – |  |  |
 | 11 | 25 May | Group project 1 | – |  |  |
