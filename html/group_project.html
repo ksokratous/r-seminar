@@ -14306,6 +14306,60 @@ a.anchor-link {
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p><strong>Note</strong>: instead of writing yourself all the data paths, you can use the following function, <a href="https://www.math.ucla.edu/~anderson/rw1001/library/base/html/list.files.html">https://www.math.ucla.edu/~anderson/rw1001/library/base/html/list.files.html</a></p>
+<p>Here is a little tutorial on how to import the files. Instead of using the fread function you should use <code>read_delim</code>. Also, what is not included in this tutorial is how to add a column with the participant number. You should find a way to fix that.</p>
+
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[6]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+     <div class="CodeMirror cm-s-jupyter">
+<div class=" highlight hl-r"><pre><span></span><span class="c1"># example of how to define lists of files</span>
+<span class="n">data_folder</span> <span class="o">=</span> <span class="s">&#39;~/Dropbox/teaching/r-course21/GroupData/GroupA/Data/&#39;</span>
+
+<span class="n">list_files</span> <span class="o">=</span> <span class="nf">paste</span><span class="p">(</span><span class="n">data_folder</span><span class="p">,</span> <span class="nf">list.files</span><span class="p">(</span><span class="n">path</span><span class="o">=</span><span class="n">data_folder</span><span class="p">),</span> <span class="n">sep</span><span class="o">=</span><span class="s">&quot;&quot;</span><span class="p">)</span>
+
+<span class="n">list_files</span><span class="p">[</span><span class="m">1</span><span class="o">:</span><span class="m">5</span><span class="p">]</span> <span class="c1"># show the first 5</span>
+</pre></div>
+
+     </div>
+</div>
+</div>
+</div>
+
+<div class="jp-Cell-outputWrapper">
+
+
+<div class="jp-OutputArea jp-Cell-outputArea">
+
+<div class="jp-OutputArea-child">
+
+    
+    <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+
+
+
+<div class="jp-RenderedHTMLCommon jp-RenderedHTML jp-OutputArea-output " data-mime-type="text/html">
+<style>
+.list-inline {list-style: none; margin:0; padding: 0}
+.list-inline>li {display: inline-block}
+.list-inline>li:not(:last-child)::after {content: "\00b7"; padding: 0 .5ex}
+</style>
+<ol class=list-inline><li>'~/Dropbox/teaching/r-course21/GroupData/GroupA/Data/10000_Norm_Time_Friday 15th of May 2015 01:47:18 PM.txt'</li><li>'~/Dropbox/teaching/r-course21/GroupData/GroupA/Data/10001_Norm_Trial_Friday 15th of May 2015 02:35:07 PM.txt'</li><li>'~/Dropbox/teaching/r-course21/GroupData/GroupA/Data/10002_Optim_Time_Tuesday 19th of May 2015 11:33:14 AM.txt'</li><li>'~/Dropbox/teaching/r-course21/GroupData/GroupA/Data/10003_Optim_Trial_Tuesday 19th of May 2015 11:43:51 AM.txt'</li><li>'~/Dropbox/teaching/r-course21/GroupData/GroupA/Data/10004_Info_Time_Tuesday 19th of May 2015 11:37:06 AM.txt'</li></ol>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <h1 id="Step-2:-Data-visualization">Step 2: Data visualization<a class="anchor-link" href="#Step-2:-Data-visualization">&#182;</a></h1>
 </div>
 </div>

@@ -26228,6 +26228,50 @@ The following objects are masked from ‘package:tidyr’:
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[60]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+     <div class="CodeMirror cm-s-jupyter">
+<div class=" highlight hl-r"><pre><span></span><span class="nf">lm</span><span class="p">(</span><span class="n">MATH4</span> <span class="o">~</span> <span class="n">MATH3</span><span class="p">,</span> <span class="n">data</span> <span class="o">=</span> <span class="n">data</span><span class="p">)</span>
+</pre></div>
+
+     </div>
+</div>
+</div>
+</div>
+
+<div class="jp-Cell-outputWrapper">
+
+
+<div class="jp-OutputArea jp-Cell-outputArea">
+
+<div class="jp-OutputArea-child">
+
+    
+    <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+
+
+
+
+<div class="jp-RenderedText jp-OutputArea-output " data-mime-type="text/plain">
+<pre>
+Call:
+lm(formula = MATH4 ~ MATH3, data = data)
+
+Coefficients:
+(Intercept)        MATH3  
+   -0.01994      0.66935  
+</pre>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-InputArea jp-Cell-inputArea">
 <div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[52]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
@@ -26299,6 +26343,50 @@ MATH3 -0.051</pre>
 </ol>
 
 </div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[61]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+     <div class="CodeMirror cm-s-jupyter">
+<div class=" highlight hl-r"><pre><span></span><span class="nf">lm</span><span class="p">(</span><span class="n">MATH4</span> <span class="o">~</span> <span class="m">0</span> <span class="o">+</span> <span class="n">MATH3</span><span class="p">,</span> <span class="n">data</span> <span class="o">=</span> <span class="n">data</span><span class="p">)</span>
+</pre></div>
+
+     </div>
+</div>
+</div>
+</div>
+
+<div class="jp-Cell-outputWrapper">
+
+
+<div class="jp-OutputArea jp-Cell-outputArea">
+
+<div class="jp-OutputArea-child">
+
+    
+    <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+
+
+
+
+<div class="jp-RenderedText jp-OutputArea-output " data-mime-type="text/plain">
+<pre>
+Call:
+lm(formula = MATH4 ~ 0 + MATH3, data = data)
+
+Coefficients:
+ MATH3  
+0.6685  
+</pre>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea">
@@ -26430,9 +26518,8 @@ MATH3 -0.172</pre>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <h2 id="Now-it's-your-turn">Now it's your turn<a class="anchor-link" href="#Now-it's-your-turn">&#182;</a></h2><ol>
-<li>Create a new variable in the dataset, called <code>improvement_math</code>, which is the difference between MATH4 and MATH3; and <code>improvement_french</code> which is the difference between FRAN4 and FRAN3.</li>
-<li>Run a multilevel model (separately for math and french), that takes into account the school level. Run a random slope model, a random intercept model, and a random slope and intercept model.</li>
-<li><p>Now add the <code>sup</code> variable as a predictor. Now re-run a random slope model, a random intercept model, and a random slope and intercept model.</p>
+<li>Create a new variable in the dataset, called <code>improvement_math</code>, which is the difference between <code>MATH4</code> and <code>MATH3</code>; and <code>improvement_french</code> which is the difference between <code>FRAN4</code> and <code>FRAN3</code>.</li>
+<li><p>Run a multilevel model (separately for math and french), in which the improvement in math and french is predicted by at least 2 variables of your choice in the dataset, and that takes into account the school level. Run a random slope model, a random intercept model, and a random slope and intercept model.</p>
 </li>
 <li><p>(extra) Collapse the data across classrooms. Can you look at the effect of the number of student per classrrom on the improvements of math and french, taking into account the school level as well?</p>
 </li>
