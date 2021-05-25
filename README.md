@@ -16,7 +16,7 @@ New WPAs and readings will be uploaded weekly, so check back regularly.
 | 7 | 20 April | Writing Functions and Loops | – | [WPA 7](http://htmlpreview.github.io/?https://github.com/laurafontanesi/r-seminar/blob/main/html/wpa7.html) | [Answers](http://htmlpreview.github.io/?https://github.com/laurafontanesi/r-seminar/blob/main/html/wpa7_answers.html) |
 | 8 | 27 April | Linear and logistic regression | [Chapter 5](https://moderndive.com/5-regression.html) | [WPA 8](http://htmlpreview.github.io/?https://github.com/laurafontanesi/r-seminar/blob/main/html/wpa8.html) | [Answers](http://htmlpreview.github.io/?https://github.com/laurafontanesi/r-seminar/blob/main/html/wpa8_answers.html) |
 | 9 | 4 May | Multiple regression and ANOVA | [Chapter 6](https://moderndive.com/6-multiple-regression.html) | [WPA 9](http://htmlpreview.github.io/?https://github.com/laurafontanesi/r-seminar/blob/main/html/wpa9.html) | [Answers](http://htmlpreview.github.io/?https://github.com/laurafontanesi/r-seminar/blob/main/html/wpa9_answers.html) |
-| 10 | 18 May | Multilevel regression | – | [WPA 10](http://htmlpreview.github.io/?https://github.com/laurafontanesi/r-seminar/blob/main/html/wpa10.html) |  |
+| 10 | 18 May | Multilevel regression | – | [WPA 10](http://htmlpreview.github.io/?https://github.com/laurafontanesi/r-seminar/blob/main/html/wpa10.html) | [Answers](http://htmlpreview.github.io/?https://github.com/laurafontanesi/r-seminar/blob/main/html/wpa10_answers.html) |
 | 11 | 25 May | Group project 1 | – | [Group project](https://nbviewer.jupyter.org/github/laurafontanesi/r-seminar/blob/main/notebooks/group_project.ipynb)
 |  |
 | 12 | 1 June | Group project 2 | – |  |  |
